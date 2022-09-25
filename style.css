@@ -1,0 +1,52 @@
+body {
+    background-color: gainsboro;
+}
+
+.encabezado {
+    display: flex;
+    background-color: white;
+    height: 50px;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 130%;
+}
+
+.post {
+    background-color: white;
+    width: 350px;
+    height: 360px;
+    margin: auto;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    margin: 12px 10px 5px 12px;
+}
+
+.header-left {
+    display: flex;
+}
+
+h5 {
+    margin: 10px 0px 3px 10px;
+    font-size: 80%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fecha {
+    display: flex;
+    font-size: 12px;
+    margin: 5px 10px 0px 0px;
+}
+
+.descripcion {
+    font-size: 15px;
+    margin: 10px 0px 0px 10px;
+}
